@@ -1,0 +1,5 @@
+This project focuses on various probabilistic decisioning strategies and ways to improve it.
+
+Task 1- To implement discrete Bayesian Networks for answering any probabilistic queries
+Task 2- Different Sampling strategies and ways to improve the structure
+Task 3- To implement Gaussian discrete Bayesian Networks to support both discrete and continuous variables
